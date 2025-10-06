@@ -1,6 +1,7 @@
 {  
   "server_name": "Wolfblade 15.11",  
   "current_version": "1.0.0",  
+  "release_tag": "v1.0.0",  
   "description": "Wolfblade client - Initial release",  
   "github_username": "Uhahny",  
   "github_repository": "Wolfblade_15.11_Client",  
