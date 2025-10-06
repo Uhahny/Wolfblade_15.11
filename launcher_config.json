@@ -1,0 +1,21 @@
+{
+  "server_name": "Wolfblade",
+  "current_version": "1.0.0",
+  "description": "Oficjalny klient Wolfblade 15.11",
+  
+  "github_username": "Uhahny",
+  "github_repository": "Wolfblade_15.11",
+  "client_zip_filename": "Wolfblade_15.11.zip",
+  
+  "enable_auto_update": true,
+  "launcher_github_username": "Uhahny",
+  "launcher_github_repository": "tibialauncher",
+  "current_launcher_version": "2.0.0",
+  
+  "protected_folders": [
+    "minimap",
+    "conf",
+    "characterdata",
+    "screenshots"
+  ]
+}
