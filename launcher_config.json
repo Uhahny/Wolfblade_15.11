@@ -10,10 +10,11 @@
   "enable_auto_update": true,  
   "launcher_github_username": "Uhahny",  
   "launcher_github_repository": "Lancher_Wolfblade_15.11",  
-  "current_launcher_version": "2.0.1",  
+  "current_launcher_version": "2.0.0",  
     
   "protected_folders": ["minimap", "characterdata", "screenshots"]  
 }
+
 
 
 
